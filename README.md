@@ -4,4 +4,6 @@
 
 full analysis: https://github.com/gerritnowald/Gutenberg-Halbmarathon-Mainz-2025-analysis/blob/main/analysis.ipynb
 
-results taken from https://www.halbmarathon-mainz.de/dein-lauf/halbmarathon/ergebnisse/
+see also this blog post: https://gerritnowald.wordpress.com/2025/05/06/analysis-of-half-marathon-results/
+
+data taken from https://www.halbmarathon-mainz.de/dein-lauf/halbmarathon/ergebnisse/
